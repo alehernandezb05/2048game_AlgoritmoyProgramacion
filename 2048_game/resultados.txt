@@ -1,0 +1,27 @@
+Nombre: Oliver
+Fecha: 2025-01-02 17:40:17.661914
+Estado final del tablero:
+8	4	2	16
+128	16	256	8
+2	4	64	4
+16	2	4	2
+Movimientos: 266, Puntos:536
+
+Nombre: ale
+Fecha: 2025-01-06 16:26:45.990390
+Estado final del tablero:
+0	2	4	8
+2	2	4	32
+4	16	4	2
+2	2	4	2
+Movimientos: 42, Puntos:90
+
+Nombre: pao
+Fecha: 2025-01-06 16:30:09.563850
+Estado final del tablero:
+2	2	0	0
+8	2	0	0
+4	2	16	0
+4	8	16	2
+Movimientos: 31, Puntos:66
+
